@@ -1,0 +1,259 @@
+{
+  "engine": {
+    "path": "bin/mcp-google-ads.exe",
+    "sha256": "368cc66d3eb0e7d5ed0f30a767a982bd03bedcb5a441d5b300f79255ad40d9f5",
+    "verification": "Caller-supplied version and verified artifact checksum; capability handshake required",
+    "version": "1.1.0"
+  },
+  "files": {
+    "GENERATED.md": {
+      "mode": 438,
+      "sha256": "94d03fdde4466ad9bb5e3e5098f971edc805bb2491a977fc0cece5ae99c1fe11"
+    },
+    "LICENSE": {
+      "mode": 438,
+      "sha256": "423592442887663047fdd6b47a52866a0a059f76d734ea9423352af1a25650f3"
+    },
+    "README.md": {
+      "mode": 438,
+      "sha256": "66c1e4c7663c901bd4f7baeb176c79b16bed69358f6a5d584786532e1b982054"
+    },
+    "assets/icon.svg": {
+      "mode": 438,
+      "sha256": "e43209ef9f5b588f9dbcdb0c99ad8ad7c91d162c054daf248de44a1f90461fbc"
+    },
+    "bin/mcp-google-ads.exe": {
+      "mode": 511,
+      "sha256": "368cc66d3eb0e7d5ed0f30a767a982bd03bedcb5a441d5b300f79255ad40d9f5"
+    },
+    "mcp.json": {
+      "mode": 438,
+      "sha256": "7678a19d5088d59769606f18e79585106f8fd3944cd2cb0499696c444f5d1aad"
+    },
+    "plugin.json": {
+      "mode": 438,
+      "sha256": "d3490125d497af1252bc18632c535a9281ef569f960b50bc4696a0ba601f1a86"
+    },
+    "skills/adamup-ask/SKILL.md": {
+      "mode": 438,
+      "sha256": "8ae2588e520292b5281a2142fac8ae9e0e76e3b3d5cbfbb38a57659a17b93641"
+    },
+    "skills/adamup-fix/SKILL.md": {
+      "mode": 438,
+      "sha256": "6af8dcb2a3da4b7b0120aca432b7bdec949475c89901f0aa51ea5ffde3e73b05"
+    },
+    "skills/adamup-grant/SKILL.md": {
+      "mode": 438,
+      "sha256": "d24be0054a386b6618872ce2c428aa99b860526249a4ba0106bd85067a47618e"
+    },
+    "skills/adamup-onboard/SKILL.md": {
+      "mode": 438,
+      "sha256": "fb991c837093cbe2ada3811424abb49317d479b75e3752b9b3a32fb236431b87"
+    },
+    "skills/adamup/SKILL.md": {
+      "mode": 438,
+      "sha256": "a3bac28872037bc41dcb71a590d032f2e91caf27dc608296d5cd592263468a1c"
+    },
+    "skills/reference/README.md": {
+      "mode": 438,
+      "sha256": "b38bea2fadfe6ba6c3f0f5ed014d096583b44409f35ea2f0958b03ca287b4460"
+    },
+    "skills/reference/ab-testing.md": {
+      "mode": 438,
+      "sha256": "dba079290dd5f57b45bcefff1f116ec11c9b6efffce071404b844b814b3f879e"
+    },
+    "skills/reference/account-lifecycle.md": {
+      "mode": 438,
+      "sha256": "273d71102a115f63a9dcc7204fda22a9f721f379082f4167af19cbe3a9ec8eef"
+    },
+    "skills/reference/ad-copy.md": {
+      "mode": 438,
+      "sha256": "23d72134d9f82a14d0a2dd2cd198317caa9f3654f98e523343e4f4ed7c7f9f97"
+    },
+    "skills/reference/ai-max-gate.md": {
+      "mode": 438,
+      "sha256": "248df5ca8b391c563e94a7585387884ee2c6f6532ea80c56549a6d92ec1afbc2"
+    },
+    "skills/reference/api-and-writes.md": {
+      "mode": 438,
+      "sha256": "f99c298d754e3078f74749125e9000fd96e44c2afc6fb8dd5b9393ab9a38d4f1"
+    },
+    "skills/reference/architecture.md": {
+      "mode": 438,
+      "sha256": "55d9c8a6c801dd960ddda517065d70b3df0ca38cfb12fa1014b402cdc38bbe8d"
+    },
+    "skills/reference/assets.md": {
+      "mode": 438,
+      "sha256": "1b1df4c2ee464d344ad81949bea5b6312d2301957c3d62ab80bbca2878e4e46c"
+    },
+    "skills/reference/auction-model.md": {
+      "mode": 438,
+      "sha256": "8514c8c6d9892a33a875de16c98be6eefa3d790a069c599faefea84d261c8b18"
+    },
+    "skills/reference/audience-layer-gate.md": {
+      "mode": 438,
+      "sha256": "3a4cccd510c6fa8d5eab5fc144efa9ec41972036dd57b49c2c89fa89e17d4572"
+    },
+    "skills/reference/automation-governance.md": {
+      "mode": 438,
+      "sha256": "9ced1c2ffe24be3570b3738c574885c5d0d46b18737e97b85fb62bdb939486a9"
+    },
+    "skills/reference/autopilot.md": {
+      "mode": 438,
+      "sha256": "9b707ae18f38c0604f51f71143845038135f0fe14aaeeda89012e4967269efb5"
+    },
+    "skills/reference/bidding.md": {
+      "mode": 438,
+      "sha256": "2efa54f4235fea44f39917ef86925c5e07d9e7a203894625c1cce6b341ef19cb"
+    },
+    "skills/reference/broad-match.md": {
+      "mode": 438,
+      "sha256": "d24872ef33bd9e285abfbd4c89b1d0b16ecc9ab0fa2fe1383c3225b9cb43fa92"
+    },
+    "skills/reference/change-hygiene.md": {
+      "mode": 438,
+      "sha256": "75d377143232eaa942511857d52923e531005a4a66fbe5062a51e0a67ca8ddba"
+    },
+    "skills/reference/compliance.md": {
+      "mode": 438,
+      "sha256": "770fd1fffa97c12e5a7246a00853d0128a67b0a43509fd08da048e5a10a54168"
+    },
+    "skills/reference/conversion-ladder.md": {
+      "mode": 438,
+      "sha256": "c494a62cf8a9c6b98204b2338d27f0569e6d493b37423bdc15581aaf721056ec"
+    },
+    "skills/reference/guardrails.md": {
+      "mode": 438,
+      "sha256": "aeff87a4eede80f6fd3ac521c92d189c02d3d435b0adef4fb7df5e0c9ea87cee"
+    },
+    "skills/reference/host-runtime.md": {
+      "mode": 438,
+      "sha256": "c75914e311571932cc69bedb091c33016ecc24d2408980604cdd3f56f72efc9c"
+    },
+    "skills/reference/invariants.md": {
+      "mode": 438,
+      "sha256": "c3ab1aa367d55c6fb31e45f79840915bed0b713c3691baf8d63996b6af61fd48"
+    },
+    "skills/reference/keyword-doctrine.md": {
+      "mode": 438,
+      "sha256": "010d13acdbd0e4a7e36249cdadb44053321681ad0b5d5929901fecbea7a7873a"
+    },
+    "skills/reference/keyword-research.md": {
+      "mode": 438,
+      "sha256": "90b50f073ce9f162d4e49186e4015558fc6d2b9d0531f1e6e51fa7c5dc1ff478"
+    },
+    "skills/reference/low-impressions.md": {
+      "mode": 438,
+      "sha256": "53a9e3de4bf33f2b8f5c8c6cf5213eb2544477b35b97087671bec13d7bd21be8"
+    },
+    "skills/reference/objective-ladder.md": {
+      "mode": 438,
+      "sha256": "d3c145a46d03f49f76c83aaf27e34f7271c5d58731b5731c427fe23b4b32e9a0"
+    },
+    "skills/reference/performance.md": {
+      "mode": 438,
+      "sha256": "95792eebc6e8321964399921c098838d31d1143c97e94cd7cb30c38eb9fecffe"
+    },
+    "skills/reference/platform-tag-install.md": {
+      "mode": 438,
+      "sha256": "6feb8b55e7c780aec2057620868bef11f9a610f13e0c0e727a7cbfdce9256ebb"
+    },
+    "skills/reference/pmax-gate.md": {
+      "mode": 438,
+      "sha256": "e179dcadc4139ba0014cced9719c295cdd80d763b677ff439c5fae9a3386253e"
+    },
+    "skills/reference/quality-score.md": {
+      "mode": 438,
+      "sha256": "f40b4aadf3c0310053765e494dc0eeb76dce5f79163d0d9d62fba5b5b19af61d"
+    },
+    "skills/reference/recommendations-catalog.md": {
+      "mode": 438,
+      "sha256": "fab5f17390d24bac31faa45f9ec174df7d4211190b0c8c32a4c3c87552826192"
+    },
+    "skills/reference/search-terms.md": {
+      "mode": 438,
+      "sha256": "16a0ab25485de384ac6a213bddc6d729b153f937ea3a0756f7ca9c9050165b5e"
+    },
+    "skills/reference/site-readiness.md": {
+      "mode": 438,
+      "sha256": "c10332d833cf0468ab8bd82b0489dcb8cf7e1e0017e0f78681282179f9d64734"
+    },
+    "skills/reference/telemetry.md": {
+      "mode": 438,
+      "sha256": "e3660171240e35387ddd3cf07e13606889051af0139d4fbebadc6da989508ff2"
+    },
+    "skills/reference/volume-first.md": {
+      "mode": 438,
+      "sha256": "10ee50bb504a3e29e57172898324730e53649f278785a002627d910b83ca502b"
+    }
+  },
+  "format": 1,
+  "package_sha256": "f7f59f5b110591def50c4d2ce4d592cba95913a13e5fb5a4521e2e0a46ac6c55",
+  "platform": "win32-x64",
+  "plugin_version": "1.1.0",
+  "prerequisites": [],
+  "profile": "native",
+  "runtime": {
+    "ab_execution": false,
+    "local_only": true,
+    "required_python": false
+  },
+  "source": {
+    "commit": "22f8b28f87909aea4c07c253f14251311c9f05d0",
+    "dirty": true,
+    "dirty_scope": "reviewed_inputs",
+    "dirty_status_sha256": "77bb89e61a8154a0ee34a9ff098615a68810a671caa88fc99789895889b92cb1",
+    "git_metadata_available": true,
+    "input_files": {
+      "LICENSE": "423592442887663047fdd6b47a52866a0a059f76d734ea9423352af1a25650f3",
+      "skills/adamup-ask/SKILL.md": "8ae2588e520292b5281a2142fac8ae9e0e76e3b3d5cbfbb38a57659a17b93641",
+      "skills/adamup-fix/SKILL.md": "6af8dcb2a3da4b7b0120aca432b7bdec949475c89901f0aa51ea5ffde3e73b05",
+      "skills/adamup-grant/SKILL.md": "d24be0054a386b6618872ce2c428aa99b860526249a4ba0106bd85067a47618e",
+      "skills/adamup-onboard/SKILL.md": "fb991c837093cbe2ada3811424abb49317d479b75e3752b9b3a32fb236431b87",
+      "skills/adamup/SKILL.md": "a3bac28872037bc41dcb71a590d032f2e91caf27dc608296d5cd592263468a1c",
+      "skills/reference/README.md": "b38bea2fadfe6ba6c3f0f5ed014d096583b44409f35ea2f0958b03ca287b4460",
+      "skills/reference/ab-testing.md": "dba079290dd5f57b45bcefff1f116ec11c9b6efffce071404b844b814b3f879e",
+      "skills/reference/account-lifecycle.md": "273d71102a115f63a9dcc7204fda22a9f721f379082f4167af19cbe3a9ec8eef",
+      "skills/reference/ad-copy.md": "23d72134d9f82a14d0a2dd2cd198317caa9f3654f98e523343e4f4ed7c7f9f97",
+      "skills/reference/ai-max-gate.md": "248df5ca8b391c563e94a7585387884ee2c6f6532ea80c56549a6d92ec1afbc2",
+      "skills/reference/api-and-writes.md": "f99c298d754e3078f74749125e9000fd96e44c2afc6fb8dd5b9393ab9a38d4f1",
+      "skills/reference/architecture.md": "55d9c8a6c801dd960ddda517065d70b3df0ca38cfb12fa1014b402cdc38bbe8d",
+      "skills/reference/assets.md": "1b1df4c2ee464d344ad81949bea5b6312d2301957c3d62ab80bbca2878e4e46c",
+      "skills/reference/auction-model.md": "8514c8c6d9892a33a875de16c98be6eefa3d790a069c599faefea84d261c8b18",
+      "skills/reference/audience-layer-gate.md": "3a4cccd510c6fa8d5eab5fc144efa9ec41972036dd57b49c2c89fa89e17d4572",
+      "skills/reference/automation-governance.md": "9ced1c2ffe24be3570b3738c574885c5d0d46b18737e97b85fb62bdb939486a9",
+      "skills/reference/autopilot.md": "9b707ae18f38c0604f51f71143845038135f0fe14aaeeda89012e4967269efb5",
+      "skills/reference/bidding.md": "2efa54f4235fea44f39917ef86925c5e07d9e7a203894625c1cce6b341ef19cb",
+      "skills/reference/broad-match.md": "d24872ef33bd9e285abfbd4c89b1d0b16ecc9ab0fa2fe1383c3225b9cb43fa92",
+      "skills/reference/change-hygiene.md": "75d377143232eaa942511857d52923e531005a4a66fbe5062a51e0a67ca8ddba",
+      "skills/reference/compliance.md": "770fd1fffa97c12e5a7246a00853d0128a67b0a43509fd08da048e5a10a54168",
+      "skills/reference/conversion-ladder.md": "c494a62cf8a9c6b98204b2338d27f0569e6d493b37423bdc15581aaf721056ec",
+      "skills/reference/guardrails.md": "aeff87a4eede80f6fd3ac521c92d189c02d3d435b0adef4fb7df5e0c9ea87cee",
+      "skills/reference/invariants.md": "c3ab1aa367d55c6fb31e45f79840915bed0b713c3691baf8d63996b6af61fd48",
+      "skills/reference/keyword-doctrine.md": "010d13acdbd0e4a7e36249cdadb44053321681ad0b5d5929901fecbea7a7873a",
+      "skills/reference/keyword-research.md": "90b50f073ce9f162d4e49186e4015558fc6d2b9d0531f1e6e51fa7c5dc1ff478",
+      "skills/reference/low-impressions.md": "53a9e3de4bf33f2b8f5c8c6cf5213eb2544477b35b97087671bec13d7bd21be8",
+      "skills/reference/objective-ladder.md": "d3c145a46d03f49f76c83aaf27e34f7271c5d58731b5731c427fe23b4b32e9a0",
+      "skills/reference/performance.md": "95792eebc6e8321964399921c098838d31d1143c97e94cd7cb30c38eb9fecffe",
+      "skills/reference/platform-tag-install.md": "6feb8b55e7c780aec2057620868bef11f9a610f13e0c0e727a7cbfdce9256ebb",
+      "skills/reference/pmax-gate.md": "e179dcadc4139ba0014cced9719c295cdd80d763b677ff439c5fae9a3386253e",
+      "skills/reference/quality-score.md": "f40b4aadf3c0310053765e494dc0eeb76dce5f79163d0d9d62fba5b5b19af61d",
+      "skills/reference/recommendations-catalog.md": "fab5f17390d24bac31faa45f9ec174df7d4211190b0c8c32a4c3c87552826192",
+      "skills/reference/search-terms.md": "16a0ab25485de384ac6a213bddc6d729b153f937ea3a0756f7ca9c9050165b5e",
+      "skills/reference/site-readiness.md": "c10332d833cf0468ab8bd82b0489dcb8cf7e1e0017e0f78681282179f9d64734",
+      "skills/reference/telemetry.md": "e3660171240e35387ddd3cf07e13606889051af0139d4fbebadc6da989508ff2",
+      "skills/reference/volume-first.md": "10ee50bb504a3e29e57172898324730e53649f278785a002627d910b83ca502b",
+      "targets/openai/README.md": "66c1e4c7663c901bd4f7baeb176c79b16bed69358f6a5d584786532e1b982054",
+      "targets/openai/assets/icon.svg": "e43209ef9f5b588f9dbcdb0c99ad8ad7c91d162c054daf248de44a1f90461fbc",
+      "targets/openai/host-runtime.md": "c75914e311571932cc69bedb091c33016ecc24d2408980604cdd3f56f72efc9c",
+      "targets/openai/mcp.json": "231f371c29bb257f3535f7c1a18a6b0cd2995709e45e71d144f8b17d816d3309",
+      "targets/openai/plugin.json": "d3490125d497af1252bc18632c535a9281ef569f960b50bc4696a0ba601f1a86",
+      "tools/build_plugin.py": "a3a69b1a12ad210c26d2d4b85aa3ac2c3c8593ccb6e41ea0b2e9d766bf0b3fea",
+      "tools/check_shared_content.py": "863c6e2bfc5856f71534e54246514a6907d26dc4e1e9fc32927f66a24513f7a5",
+      "tools/package_common.py": "21191984a391d4789a48717bf1a689433bf3e0c25c3febb968bbde7beab0994e",
+      "tools/validate_package.py": "abc06519814b5fd10a75046e8ad210767fa2e3bd2f53fd3ebc22f9d449eb1382"
+    },
+    "input_sha256": "cb324db1af27cc05f639de80c1d3e3ba7d6d1ec60abd6e1fa4f55894d831203b"
+  },
+  "target": "openai"
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "adamup-engine": {
+      "args": [],
+      "command": "./bin/mcp-google-ads",
+      "cwd": "${PLUGIN_ROOT}",
+      "env": {
+        "ADAMUP_HOST": "codex",
+        "ADAMUP_PLUGIN_VERSION": "1.1.0",
+        "ADAMUP_PROFILE_MODE": "plugin",
+        "GOOGLE_ADS_MAX_DAILY_BUDGET": "329"
+      },
+      "type": "stdio"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "AdamUp",
+    "url": "https://adamup.tech"
+  },
+  "description": "Run a Google Ad Grant nonprofit account end to end from Claude: guided setup, a weekly optimization pass, and plain-English answers about the account. Free and unsupported.",
+  "homepage": "https://adamup.tech",
+  "keywords": [
+    "google-ads",
+    "ad-grants",
+    "nonprofit",
+    "ppc",
+    "optimization"
+  ],
+  "license": "MIT",
+  "mcpServers": {
+    "adamup-engine": {
+      "args": [],
+      "command": "${CLAUDE_PLUGIN_ROOT}/bin/mcp-google-ads.exe",
+      "env": {
+        "ADAMUP_HOST": "claude",
+        "ADAMUP_PLUGIN_VERSION": "1.1.0",
+        "ADAMUP_PROFILE_MODE": "plugin",
+        "GOOGLE_ADS_MAX_DAILY_BUDGET": "329"
+      }
+    }
+  },
+  "name": "run-adamup-windows",
+  "repository": "https://github.com/gingerman-coder/adamup-marketplace",
+  "version": "1.1.0"
+}

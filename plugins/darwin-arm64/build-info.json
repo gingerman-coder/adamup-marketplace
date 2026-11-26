@@ -1,0 +1,278 @@
+{
+  "engine": {
+    "path": "bin/mcp-google-ads",
+    "sha256": "db172235ea536f4068898b5c48b613b20feb7e9138c43cd4b2ac2c45badfc254",
+    "version": "1.1.0"
+  },
+  "files": {
+    ".claude-plugin/marketplace.json": {
+      "mode": 420,
+      "sha256": "0c4544c45e88ff37bff8b79c7ba4532a1a1d4d567132e4d45ccec394961a6235"
+    },
+    ".claude-plugin/plugin.json": {
+      "mode": 420,
+      "sha256": "ea75aac9114d94c6fdff35d0b2214bbaa2237ec1e94da2b763f14da62db144c4"
+    },
+    "GENERATED.md": {
+      "mode": 420,
+      "sha256": "337aea0451e0bd90c917a29807e06f2bb5a4f17a611f13b571908b0f4c89beed"
+    },
+    "LICENSE": {
+      "mode": 420,
+      "sha256": "11fadb62a5d81e8c299e824e61c61d59d3e2fbe98bc2a10425293c1e924cabc3"
+    },
+    "README.md": {
+      "mode": 420,
+      "sha256": "8c6f2ab7b823b8a022fac26d1ee087576681a8794ff1ad008f61c8a26c3f2f0c"
+    },
+    "assets/icon.svg": {
+      "mode": 420,
+      "sha256": "f017b01a16cc9ac11067442772ebc1850a0acce130c455c3a166682d439bfc7d"
+    },
+    "bin/mcp-google-ads": {
+      "mode": 493,
+      "sha256": "db172235ea536f4068898b5c48b613b20feb7e9138c43cd4b2ac2c45badfc254"
+    },
+    "docs/desktop-plugins/host-contract.md": {
+      "mode": 420,
+      "sha256": "2a2d9c8e32eba585187c567bff1adbe926b9c637bbebec1d2013fab12c67888f"
+    },
+    "hooks/hooks.json": {
+      "mode": 420,
+      "sha256": "16b8ec981c2cf55a009d5cf8d0ba711c500245847ee8d41586da5007162fd9a7"
+    },
+    "hooks/session-start.sh": {
+      "mode": 493,
+      "sha256": "1a95246983c5bf6fa529815b0d2f8afdc331160495120b549c933754134837c6"
+    },
+    "skills/adamup-ask/SKILL.md": {
+      "mode": 420,
+      "sha256": "52e99b5f5fad249b2ae1f0fb2a3fb400d9d0e9a0b0ff09b8776ae9d3765de99d"
+    },
+    "skills/adamup-fix/SKILL.md": {
+      "mode": 420,
+      "sha256": "a2a0a0aea4eacca00a9bc0cf76d5987d3b0b7fc04019a5f5da71da9f15836d7e"
+    },
+    "skills/adamup-grant/SKILL.md": {
+      "mode": 420,
+      "sha256": "383a92c78cc13afa736611e0c59fcb8ad4cec59203fdfb1d6d49723044896996"
+    },
+    "skills/adamup-onboard/SKILL.md": {
+      "mode": 420,
+      "sha256": "5837efc48b889ec95a02cc7da3869057288616a27041d51aa92dbf60123020da"
+    },
+    "skills/adamup/SKILL.md": {
+      "mode": 420,
+      "sha256": "d8426cea4ed277e4d33aefa3a492d19c4a28dffba6916558f7afdc1b804f2bbc"
+    },
+    "skills/reference/README.md": {
+      "mode": 420,
+      "sha256": "7104d2d1d9cee7e9a0863149c10226dfead1a8bc81cfd9af42b23e428cd25467"
+    },
+    "skills/reference/ab-testing.md": {
+      "mode": 420,
+      "sha256": "64e49a0244f6ef2fd9b649411eba795cacb78a49a5fb947a168eaba2207c4bc2"
+    },
+    "skills/reference/account-lifecycle.md": {
+      "mode": 420,
+      "sha256": "f9a516c9f05929025b1e70b792e662e1e4c36a8a9838dd369e5c8f545b00c500"
+    },
+    "skills/reference/ad-copy.md": {
+      "mode": 420,
+      "sha256": "1c1abb479111d5f36586e2a17cfc66f1c78518c03b0e5b6ce2781e6055c18e9c"
+    },
+    "skills/reference/ai-max-gate.md": {
+      "mode": 420,
+      "sha256": "0a75a93319f008e854adc30bcff631e189084e9f2b96027b230340f3e9d33099"
+    },
+    "skills/reference/api-and-writes.md": {
+      "mode": 420,
+      "sha256": "7870c0e8facc5986466b206dfb35c3c39a19a86b52fc48354e232e245ff4dd3c"
+    },
+    "skills/reference/architecture.md": {
+      "mode": 420,
+      "sha256": "6453f9e395c5181ff3b164fd63a855e31ef895d1dad83289240cd292c5f9afd0"
+    },
+    "skills/reference/assets.md": {
+      "mode": 420,
+      "sha256": "0ae71516adceb43a474a4599a7e2986fb4ec414322235f2c2d244d687705d244"
+    },
+    "skills/reference/auction-model.md": {
+      "mode": 420,
+      "sha256": "cffef0b4a43b40ae77c0506d0995827682857fdcc170d047c569e5fe7f780723"
+    },
+    "skills/reference/audience-layer-gate.md": {
+      "mode": 420,
+      "sha256": "3e6dd8da1a267998669e5a614c67177da11e552af1864f170106d45eb15bf089"
+    },
+    "skills/reference/automation-governance.md": {
+      "mode": 420,
+      "sha256": "2da3cacbf0178b6c919ba03b3555061265c3bba594a73c3ac60667a82ef31bb4"
+    },
+    "skills/reference/autopilot.md": {
+      "mode": 420,
+      "sha256": "58ccfe98909ba37880a0cdea0b4a42b994e45ecb15fa2f4a6addb20849ef9728"
+    },
+    "skills/reference/bidding.md": {
+      "mode": 420,
+      "sha256": "9039c0bd0c2d1527624bd2203d8285b57cf94e3c4dd759887c4a5b1e3806ac25"
+    },
+    "skills/reference/broad-match.md": {
+      "mode": 420,
+      "sha256": "9d7cd9351bf963917d34131035d8c89ea7e3d5b38472f911ab018b4eb8637e10"
+    },
+    "skills/reference/change-hygiene.md": {
+      "mode": 420,
+      "sha256": "0bfc7bdece3ed6683bfa0e8b4dd9e9009107694b598e759e1144ecf105831665"
+    },
+    "skills/reference/compliance.md": {
+      "mode": 420,
+      "sha256": "c2ed97451619ab4b4dc88d5d6d86d9de987b48d6f9d47e318118cac34a96609e"
+    },
+    "skills/reference/conversion-ladder.md": {
+      "mode": 420,
+      "sha256": "0716ce68cad90079916bc5eaf849334cb4d56804a756316a19d60ac752b6bdd9"
+    },
+    "skills/reference/guardrails.md": {
+      "mode": 420,
+      "sha256": "f31f868fffc5e6bb4c22197647ea68751cfc6e39ea420ebb6df60ad8c10cd52d"
+    },
+    "skills/reference/host-runtime.md": {
+      "mode": 420,
+      "sha256": "40b4a271010500c77b0e996c807f7d2e98b951ab4b045e32223296a47926a6f0"
+    },
+    "skills/reference/invariants.md": {
+      "mode": 420,
+      "sha256": "5b9a2702939b5f0814eaacdd88853f8af2a35bc87fe3b2f9d0aa846d0d50f25c"
+    },
+    "skills/reference/keyword-doctrine.md": {
+      "mode": 420,
+      "sha256": "f1a35c3b80c828d8aa8624ec038143d09ca74dd60b21c8eb6bad8fd3ec178bc1"
+    },
+    "skills/reference/keyword-research.md": {
+      "mode": 420,
+      "sha256": "eb1d7384680ce07a9eea8fe3f4241eaa07fefd5034cb6f7a2c5a0903040ce192"
+    },
+    "skills/reference/low-impressions.md": {
+      "mode": 420,
+      "sha256": "f8ca129fd8610347384d59133ea076639f7e4440ae0952d1b9fe4ab1e33ef049"
+    },
+    "skills/reference/objective-ladder.md": {
+      "mode": 420,
+      "sha256": "72688ba3175f79e25e271e181831508319e7939e19c3729d757aefbe0b8eb0eb"
+    },
+    "skills/reference/performance.md": {
+      "mode": 420,
+      "sha256": "5340ec6241a108b79df92d83a534b7539a8fb001dd77de91d5d53508cf2d6868"
+    },
+    "skills/reference/platform-tag-install.md": {
+      "mode": 420,
+      "sha256": "a4f597beaaffe45a3d8e1badb4b558ec4a715b3ccaa467ed0f222d6a47e6e7ca"
+    },
+    "skills/reference/pmax-gate.md": {
+      "mode": 420,
+      "sha256": "b0fa0e0f7b333c2e542cc987eb987b488a5af9b49d1405a8eb72ebc94e1b1335"
+    },
+    "skills/reference/quality-score.md": {
+      "mode": 420,
+      "sha256": "0096eaca279c0a4830b8a3c58f8a9089e58068268c29c8a585ae328fc154c55d"
+    },
+    "skills/reference/recommendations-catalog.md": {
+      "mode": 420,
+      "sha256": "5f9efec4777413a84e4d5ec08d6bb34a8888f7c4fd4b6127a709fe2b2cc02e24"
+    },
+    "skills/reference/search-terms.md": {
+      "mode": 420,
+      "sha256": "d92748b6b4fb22cf85fd94ae04dc69b9de44fb021ff1bdf9bf36d3c08e72d7ea"
+    },
+    "skills/reference/site-readiness.md": {
+      "mode": 420,
+      "sha256": "27d54661c2fb6347bf64dd0081ede364636afe45100e328d4357ade361bdf51c"
+    },
+    "skills/reference/telemetry.md": {
+      "mode": 420,
+      "sha256": "0ba6f138c17e9ac5702d643cd30b5f3f057009e5344198f78fbfb11e25970daf"
+    },
+    "skills/reference/volume-first.md": {
+      "mode": 420,
+      "sha256": "d838c8ce5f045db340a1a76e809d836e50e455ce5b569928f51fe71a8b728260"
+    },
+    "targets/openai/README.md": {
+      "mode": 420,
+      "sha256": "2d14977c2e5bd0a654d8a6d729a2fc9712498c2bedd898326e59a3f362246b9f"
+    }
+  },
+  "format": 1,
+  "package_sha256": "67e99ab02f053201459373d50a8bedafd98b9e1c75e1d155bce0d139df0d2dcb",
+  "platform": "darwin-arm64",
+  "plugin_version": "1.1.0",
+  "prerequisites": [
+    "bash for optional preserved Claude hook"
+  ],
+  "profile": "native",
+  "source": {
+    "commit": "22f8b28f87909aea4c07c253f14251311c9f05d0",
+    "dirty": false,
+    "dirty_scope": "reviewed_inputs",
+    "dirty_status_sha256": "eae471168d63cd3d5632bee8056d69cab97c38f34b4e8fea3e844323ff6d3efb",
+    "git_metadata_available": true,
+    "input_files": {
+      ".claude-plugin/marketplace.json": "9d45bdce7ba152b11127c09ae5468f7c4384256174257899dbe1ae4ed3132cb4",
+      ".claude-plugin/plugin.json": "56510dc2b94338d899125e807cace661db73a7e4f7879766a79f7b721f677fdd",
+      "LICENSE": "11fadb62a5d81e8c299e824e61c61d59d3e2fbe98bc2a10425293c1e924cabc3",
+      "README.md": "8c6f2ab7b823b8a022fac26d1ee087576681a8794ff1ad008f61c8a26c3f2f0c",
+      "docs/desktop-plugins/host-contract.md": "2a2d9c8e32eba585187c567bff1adbe926b9c637bbebec1d2013fab12c67888f",
+      "hooks/hooks.json": "16b8ec981c2cf55a009d5cf8d0ba711c500245847ee8d41586da5007162fd9a7",
+      "hooks/session-start.sh": "1a95246983c5bf6fa529815b0d2f8afdc331160495120b549c933754134837c6",
+      "skills/adamup-ask/SKILL.md": "52e99b5f5fad249b2ae1f0fb2a3fb400d9d0e9a0b0ff09b8776ae9d3765de99d",
+      "skills/adamup-fix/SKILL.md": "a2a0a0aea4eacca00a9bc0cf76d5987d3b0b7fc04019a5f5da71da9f15836d7e",
+      "skills/adamup-grant/SKILL.md": "383a92c78cc13afa736611e0c59fcb8ad4cec59203fdfb1d6d49723044896996",
+      "skills/adamup-onboard/SKILL.md": "5837efc48b889ec95a02cc7da3869057288616a27041d51aa92dbf60123020da",
+      "skills/adamup/SKILL.md": "d8426cea4ed277e4d33aefa3a492d19c4a28dffba6916558f7afdc1b804f2bbc",
+      "skills/reference/README.md": "7104d2d1d9cee7e9a0863149c10226dfead1a8bc81cfd9af42b23e428cd25467",
+      "skills/reference/ab-testing.md": "64e49a0244f6ef2fd9b649411eba795cacb78a49a5fb947a168eaba2207c4bc2",
+      "skills/reference/account-lifecycle.md": "f9a516c9f05929025b1e70b792e662e1e4c36a8a9838dd369e5c8f545b00c500",
+      "skills/reference/ad-copy.md": "1c1abb479111d5f36586e2a17cfc66f1c78518c03b0e5b6ce2781e6055c18e9c",
+      "skills/reference/ai-max-gate.md": "0a75a93319f008e854adc30bcff631e189084e9f2b96027b230340f3e9d33099",
+      "skills/reference/api-and-writes.md": "7870c0e8facc5986466b206dfb35c3c39a19a86b52fc48354e232e245ff4dd3c",
+      "skills/reference/architecture.md": "6453f9e395c5181ff3b164fd63a855e31ef895d1dad83289240cd292c5f9afd0",
+      "skills/reference/assets.md": "0ae71516adceb43a474a4599a7e2986fb4ec414322235f2c2d244d687705d244",
+      "skills/reference/auction-model.md": "cffef0b4a43b40ae77c0506d0995827682857fdcc170d047c569e5fe7f780723",
+      "skills/reference/audience-layer-gate.md": "3e6dd8da1a267998669e5a614c67177da11e552af1864f170106d45eb15bf089",
+      "skills/reference/automation-governance.md": "2da3cacbf0178b6c919ba03b3555061265c3bba594a73c3ac60667a82ef31bb4",
+      "skills/reference/autopilot.md": "58ccfe98909ba37880a0cdea0b4a42b994e45ecb15fa2f4a6addb20849ef9728",
+      "skills/reference/bidding.md": "9039c0bd0c2d1527624bd2203d8285b57cf94e3c4dd759887c4a5b1e3806ac25",
+      "skills/reference/broad-match.md": "9d7cd9351bf963917d34131035d8c89ea7e3d5b38472f911ab018b4eb8637e10",
+      "skills/reference/change-hygiene.md": "0bfc7bdece3ed6683bfa0e8b4dd9e9009107694b598e759e1144ecf105831665",
+      "skills/reference/compliance.md": "c2ed97451619ab4b4dc88d5d6d86d9de987b48d6f9d47e318118cac34a96609e",
+      "skills/reference/conversion-ladder.md": "0716ce68cad90079916bc5eaf849334cb4d56804a756316a19d60ac752b6bdd9",
+      "skills/reference/guardrails.md": "f31f868fffc5e6bb4c22197647ea68751cfc6e39ea420ebb6df60ad8c10cd52d",
+      "skills/reference/host-runtime.md": "40b4a271010500c77b0e996c807f7d2e98b951ab4b045e32223296a47926a6f0",
+      "skills/reference/invariants.md": "5b9a2702939b5f0814eaacdd88853f8af2a35bc87fe3b2f9d0aa846d0d50f25c",
+      "skills/reference/keyword-doctrine.md": "f1a35c3b80c828d8aa8624ec038143d09ca74dd60b21c8eb6bad8fd3ec178bc1",
+      "skills/reference/keyword-research.md": "eb1d7384680ce07a9eea8fe3f4241eaa07fefd5034cb6f7a2c5a0903040ce192",
+      "skills/reference/low-impressions.md": "f8ca129fd8610347384d59133ea076639f7e4440ae0952d1b9fe4ab1e33ef049",
+      "skills/reference/objective-ladder.md": "72688ba3175f79e25e271e181831508319e7939e19c3729d757aefbe0b8eb0eb",
+      "skills/reference/performance.md": "5340ec6241a108b79df92d83a534b7539a8fb001dd77de91d5d53508cf2d6868",
+      "skills/reference/platform-tag-install.md": "a4f597beaaffe45a3d8e1badb4b558ec4a715b3ccaa467ed0f222d6a47e6e7ca",
+      "skills/reference/pmax-gate.md": "b0fa0e0f7b333c2e542cc987eb987b488a5af9b49d1405a8eb72ebc94e1b1335",
+      "skills/reference/quality-score.md": "0096eaca279c0a4830b8a3c58f8a9089e58068268c29c8a585ae328fc154c55d",
+      "skills/reference/recommendations-catalog.md": "5f9efec4777413a84e4d5ec08d6bb34a8888f7c4fd4b6127a709fe2b2cc02e24",
+      "skills/reference/search-terms.md": "d92748b6b4fb22cf85fd94ae04dc69b9de44fb021ff1bdf9bf36d3c08e72d7ea",
+      "skills/reference/site-readiness.md": "27d54661c2fb6347bf64dd0081ede364636afe45100e328d4357ade361bdf51c",
+      "skills/reference/telemetry.md": "0ba6f138c17e9ac5702d643cd30b5f3f057009e5344198f78fbfb11e25970daf",
+      "skills/reference/volume-first.md": "d838c8ce5f045db340a1a76e809d836e50e455ce5b569928f51fe71a8b728260",
+      "targets/openai/README.md": "2d14977c2e5bd0a654d8a6d729a2fc9712498c2bedd898326e59a3f362246b9f",
+      "targets/openai/assets/icon.svg": "f017b01a16cc9ac11067442772ebc1850a0acce130c455c3a166682d439bfc7d",
+      "targets/openai/host-runtime.md": "d3e8119950079821da66d5b3506f6fce08ef2f4426c181d0b73dfd0a99b8fcc9",
+      "targets/openai/mcp.json": "60cbc571b4cf12ecc61f89195393671b474f96f4791e8f60ddef4b62c3e42fcc",
+      "targets/openai/plugin.json": "f3ec04d2acb91cef400cb121c5268e33c565f0f3d8a418e6579527172c9769ac",
+      "tools/build_plugin.py": "e8f002ec4d29e4e2129ea4f2f4bc7d332bc1f70247ec23691fcc51505ae25508",
+      "tools/check_shared_content.py": "5d5dbad431d16740d37b62a045554fd7f23488285d1142c18d5be3b7a9e5d3ba",
+      "tools/package_common.py": "72b9f79e96f9890e83f0ac9fb77618d413ca5a4a71f9ba2737d510cdc9a50298",
+      "tools/validate_package.py": "05e6b3a595d123f22a6c85848ad340cd5347139cd50f7c405ed35a3febc63582"
+    },
+    "input_sha256": "7899863be6c08b1ecc6958626a8ca2461779fba3145ce553d6bdb603f6e86cb8"
+  },
+  "target": "claude"
+}

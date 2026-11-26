@@ -1,0 +1,40 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "AdamUp",
+    "url": "https://adamup.tech"
+  },
+  "description": "AdamUp for local ChatGPT Work and Codex: Google Ad Grant setup, account questions, optimization, and troubleshooting.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "category": "Productivity",
+        "defaultPrompt": [
+          "Run AdamUp setup",
+          "Review my Google Ad Grant account"
+        ],
+        "developerName": "AdamUp",
+        "displayName": "AdamUp",
+        "longDescription": "Local desktop development candidate. Run setup, review paused campaign proposals, ask account questions, and run approved optimization. Google sign-in and live acceptance remain separate checks.",
+        "shortDescription": "Manage a nonprofit Google Ad Grant",
+        "websiteURL": "https://adamup.tech"
+      },
+      "onboardingSkill": "./skills/adamup-onboard/SKILL.md",
+      "requires_local_executor": true
+    }
+  },
+  "homepage": "https://adamup.tech",
+  "keywords": [
+    "google-ads",
+    "ad-grants",
+    "nonprofit"
+  ],
+  "license": "MIT",
+  "name": "run-adamup-openai-mac-intel",
+  "repository": "https://github.com/gingerman-coder/adamup-marketplace",
+  "version": "1.1.0"
+}

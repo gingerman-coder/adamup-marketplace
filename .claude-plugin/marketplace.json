@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "description": "AdamUp: run a Google Ad Grants nonprofit account from Claude. Free.",
+    "version": "1.1.0"
+  },
+  "name": "adamup",
+  "owner": {
+    "name": "AdamUp",
+    "url": "https://github.com/gingerman-coder/adamup-marketplace"
+  },
+  "plugins": [
+    {
+      "description": "Run a Google Ad Grant nonprofit account end to end: guided setup, a weekly optimization pass, and plain-English answers. Free. For: Mac with Apple silicon (M1 or newer).",
+      "name": "run-adamup",
+      "source": "./plugins/darwin-arm64"
+    },
+    {
+      "description": "Run a Google Ad Grant nonprofit account end to end: guided setup, a weekly optimization pass, and plain-English answers. Free. For: Mac with Intel processor.",
+      "name": "run-adamup-mac-intel",
+      "source": "./plugins/darwin-x64"
+    },
+    {
+      "description": "Run a Google Ad Grant nonprofit account end to end: guided setup, a weekly optimization pass, and plain-English answers. Free. For: Windows PC.",
+      "name": "run-adamup-windows",
+      "source": "./plugins/win32-x64"
+    }
+  ]
+}

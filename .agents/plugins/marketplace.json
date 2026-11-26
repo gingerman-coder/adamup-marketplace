@@ -1,0 +1,44 @@
+{
+  "interface": {
+    "displayName": "AdamUp"
+  },
+  "name": "adamup",
+  "plugins": [
+    {
+      "category": "Productivity",
+      "name": "run-adamup-openai",
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "source": {
+        "path": "./codex/darwin-arm64",
+        "source": "local"
+      }
+    },
+    {
+      "category": "Productivity",
+      "name": "run-adamup-openai-mac-intel",
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "source": {
+        "path": "./codex/darwin-x64",
+        "source": "local"
+      }
+    },
+    {
+      "category": "Productivity",
+      "name": "run-adamup-openai-windows",
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "source": {
+        "path": "./codex/win32-x64",
+        "source": "local"
+      }
+    }
+  ]
+}
