@@ -30,8 +30,8 @@ nothing except what is marked USER. Keep messages short and plain.
    codex plugin add <codex plugin>@adamup
    ```
    Confirm with `codex plugin list --marketplace adamup --json`.
-   If `codex` is not found or the CLI does not support plugin installation: USER: open Codex's plugin settings, add the
-   marketplace `gingerman-coder/adamup-marketplace`, and install `<codex plugin>`.
+   If `codex` is not found or the CLI does not support plugin installation: USER: open Codex's
+   plugin settings, add the marketplace `gingerman-coder/adamup-marketplace`, and install `<codex plugin>`.
 
 5. If install failed, show the user the one-line error and stop. Never download files from anywhere
    else, never use sudo, never edit settings files by hand.
